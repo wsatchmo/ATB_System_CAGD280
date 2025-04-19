@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Content/NewMap.umap",
+				"C:/Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Content/Level_1.umap"
+			]
+		}
+	]
+}
