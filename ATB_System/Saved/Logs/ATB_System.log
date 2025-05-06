@@ -1712,3 +1712,1005 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.05.06-10.51.01:834][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2025.05.06-10.51.01:843][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2025.05.06-10.51.01:860][682]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.05.06-10.56.08:275][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 684.600830
+[2025.05.06-10.56.09:271][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-10.56.09:271][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 685.264282, Update Interval: 354.259460
+[2025.05.06-10.58.10:978][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-10.58.11:185][821]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_BaseCharacter] ([2] browsable assets)...
+[2025.05.06-10.58.11:185][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_BaseCharacter]
+[2025.05.06-10.58.11:213][821]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_BaseCharacter
+[2025.05.06-10.58.11:214][821]LogSavePackage: Moving '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Saved/BP_BaseCharacterDA79E9C6401BCD05AE7ED792502FCAEB.tmp' to '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Content/Blueprints/Characters/BP_BaseCharacter.uasset'
+[2025.05.06-10.58.11:230][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.490 ms (total: 756.091 ms)
+[2025.05.06-10.58.11:489][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.06-10.58.11:489][821]LogContentValidation: Enabled validators:
+[2025.05.06-10.58.11:489][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-10.58.11:489][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-10.58.11:489][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-10.58.11:489][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-10.58.11:489][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-10.58.11:489][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-10.58.11:489][821]AssetCheck: /Game/Blueprints/Characters/BP_BaseCharacter Validating asset
+[2025.05.06-10.58.52:349][255]LogEditorTransaction: Undo Move Nodes
+[2025.05.06-10.59.06:265][ 56]LogEditorTransaction: Undo Move Nodes
+[2025.05.06-10.59.20:217][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-10.59.20:421][859]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/BP_BaseCharacter] ([2] browsable assets)...
+[2025.05.06-10.59.20:422][859]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.05.06-10.59.20:544][859]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter]
+[2025.05.06-10.59.20:544][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_BaseCharacter]
+[2025.05.06-10.59.20:573][859]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_BaseCharacter
+[2025.05.06-10.59.20:573][859]LogSavePackage: Moving '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Saved/BP_BaseCharacter5750A50847EBAE0F3BF21E88083E763A.tmp' to '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Content/Blueprints/Characters/BP_BaseCharacter.uasset'
+[2025.05.06-10.59.20:585][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 368.755 ms (total: 1.12 sec)
+[2025.05.06-10.59.20:839][859]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.06-10.59.20:839][859]LogContentValidation: Enabled validators:
+[2025.05.06-10.59.20:839][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-10.59.20:839][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-10.59.20:839][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-10.59.20:839][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-10.59.20:839][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-10.59.20:839][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-10.59.20:839][859]AssetCheck: /Game/Blueprints/Characters/BP_BaseCharacter Validating asset
+[2025.05.06-11.00.40:090][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.06-11.00.44:031][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.00.44:036][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.00.44:038][229]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.00.44:039][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001740s)
+[2025.05.06-11.00.44:039][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001772s)
+[2025.05.06-11.00.44:057][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.05.06-11.00.44:059][229]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.00.44:061][229]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2025.05.06-11.00.44:061][229]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.06-11.00.44:061][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.00.44:061][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.00.44:061][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.00.44:061][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.00.44:061][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.00.44:061][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.00.44:061][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.00.44:061][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.00.44:061][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.00.44:061][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.00.44:061][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.00.44:063][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.00.44:079][229]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.00.44:079][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.00.44:079][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.00.44:079][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.00.44:079][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.06-11.00.44:080][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.06-11.00.44:083][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.06-11.00.44:083][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.06-11.00.44:083][229]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.06-11.00.44:083][229]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_1'.
+[2025.05.06-11.00.44:083][229]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.06-11.00.44:263][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.00.44:264][229]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.00.44:265][229]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.00.44
+[2025.05.06-11.00.44:265][229]LogWorld: Bringing up level for play took: 0.001385
+[2025.05.06-11.00.44:268][229]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.05.06-11.00.44:271][229]PIE: Server logged in
+[2025.05.06-11.00.44:271][229]PIE: Play in editor total start time 0.235 seconds.
+[2025.05.06-11.00.46:388][338]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Battle_Plane"
+[2025.05.06-11.00.46:388][338]LogNet: Browse: /Game/Levels/Battle_Plane
+[2025.05.06-11.00.46:388][338]LogLoad: LoadMap: /Game/Levels/Battle_Plane
+[2025.05.06-11.00.46:388][338]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.00.46:388][338]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.00.46:388][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.00.46:407][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.00.46:409][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.05.06-11.00.46:410][338]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-11.00.46:418][338]LogAudio: Display: Audio Device (ID: 5) registered with world 'Battle_Plane'.
+[2025.05.06-11.00.46:418][338]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Plane
+[2025.05.06-11.00.46:420][338]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2025.05.06-11.00.46:420][338]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.00.46:421][338]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battle_Plane.Battle_Plane up for play (max tick rate 60) at 2025.05.06-03.00.46
+[2025.05.06-11.00.46:422][338]LogWorld: Bringing up level for play took: 0.001974
+[2025.05.06-11.00.46:422][338]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.06-11.00.46:423][338]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.00.46:423][338]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Warrior_C]
+[2025.05.06-11.00.46:423][338]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Warrior_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.06-11.00.46:423][338]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.00.46:424][338]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.00.46:424][338]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.00.46:424][338]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.00.46:425][338]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.00.46:425][338]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.00.46:425][338]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.05.06-11.00.46:425][338]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.06-11.00.46:425][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.06-11.00.46:428][338]LogLoad: Took 0.040088 seconds to LoadMap(/Game/Levels/Battle_Plane)
+[2025.05.06-11.00.46:428][338]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Battle_Plane
+[2025.05.06-11.02.10:688][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1047.014038
+[2025.05.06-11.02.10:855][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.02.10:855][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1047.162720, Update Interval: 308.681305
+[2025.05.06-11.02.35:505][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.02.35:505][880]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battle_Plane
+[2025.05.06-11.02.35:505][880]LogSlate: Window 'ATB_System Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.06-11.02.35:516][880]LogWorld: UWorld::CleanupWorld for Battle_Plane, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.02.35:517][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.02.35:520][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.02.35:525][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.02.35:544][880]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.06-11.02.35:544][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.06-11.02.35:549][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.06-11.02.35:560][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.06-11.02.35:576][881]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.05.06-11.02.38:431][ 52]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.02.38:436][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.02.38:436][ 52]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.02.38:438][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001799s)
+[2025.05.06-11.02.38:438][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001830s)
+[2025.05.06-11.02.38:452][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.05.06-11.02.38:453][ 52]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.02.38:455][ 52]LogPlayLevel: PIE: World Init took: (0.001392s)
+[2025.05.06-11.02.38:455][ 52]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.05.06-11.02.38:455][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.02.38:455][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.02.38:455][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.02.38:455][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.02.38:455][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.02.38:455][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.02.38:455][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.02.38:455][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.02.38:455][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.02.38:455][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.02.38:455][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.02.38:458][ 52]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.02.38:472][ 52]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.02.38:472][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.02.38:472][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.02.38:472][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.02.38:472][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.05.06-11.02.38:472][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.05.06-11.02.38:475][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.05.06-11.02.38:475][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.05.06-11.02.38:475][ 52]LogInit: FAudioDevice initialized with ID 6.
+[2025.05.06-11.02.38:475][ 52]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_1'.
+[2025.05.06-11.02.38:475][ 52]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.06-11.02.38:623][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.02.38:623][ 52]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.02.38:625][ 52]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.02.38
+[2025.05.06-11.02.38:625][ 52]LogWorld: Bringing up level for play took: 0.001207
+[2025.05.06-11.02.38:628][ 52]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.05.06-11.02.38:631][ 52]PIE: Server logged in
+[2025.05.06-11.02.38:631][ 52]PIE: Play in editor total start time 0.196 seconds.
+[2025.05.06-11.02.42:618][281]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Battle_Plane"
+[2025.05.06-11.02.42:618][281]LogNet: Browse: /Game/Levels/Battle_Plane
+[2025.05.06-11.02.42:619][281]LogLoad: LoadMap: /Game/Levels/Battle_Plane
+[2025.05.06-11.02.42:619][281]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.02.42:619][281]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.02.42:619][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.02.42:637][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.02.42:639][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.06-11.02.42:640][281]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-11.02.42:642][281]LogAudio: Display: Audio Device (ID: 6) registered with world 'Battle_Plane'.
+[2025.05.06-11.02.42:642][281]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Plane
+[2025.05.06-11.02.42:644][281]LogPlayLevel: PIE: World Init took: (0.001504s)
+[2025.05.06-11.02.42:644][281]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.02.42:646][281]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battle_Plane.Battle_Plane up for play (max tick rate 60) at 2025.05.06-03.02.42
+[2025.05.06-11.02.42:646][281]LogWorld: Bringing up level for play took: 0.002178
+[2025.05.06-11.02.42:646][281]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.06-11.02.42:647][281]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.02.42:647][281]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Warrior_C]
+[2025.05.06-11.02.42:647][281]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Warrior_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.06-11.02.42:647][281]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.02.42:649][281]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.02.42:649][281]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.02.42:649][281]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.02.42:650][281]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.02.42:650][281]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.02.42:651][281]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.05.06-11.02.42:651][281]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.06-11.02.42:651][281]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.06-11.02.42:652][281]LogLoad: Took 0.033064 seconds to LoadMap(/Game/Levels/Battle_Plane)
+[2025.05.06-11.02.42:652][281]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Battle_Plane
+[2025.05.06-11.03.28:655][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.03.28:655][ 39]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battle_Plane
+[2025.05.06-11.03.28:655][ 39]LogSlate: Window 'ATB_System Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.06-11.03.28:667][ 39]LogWorld: UWorld::CleanupWorld for Battle_Plane, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.03.28:667][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.03.28:672][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.03.28:682][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.03.28:706][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.06-11.03.28:706][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.06-11.03.28:724][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.06-11.03.28:740][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.06-11.03.28:765][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.05.06-11.04.37:669][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-11.04.37:834][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/BP_BaseCharacter] ([2] browsable assets)...
+[2025.05.06-11.04.37:927][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter]
+[2025.05.06-11.04.37:927][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_BaseCharacter]
+[2025.05.06-11.04.37:954][ 79]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_BaseCharacter
+[2025.05.06-11.04.37:956][ 79]LogSavePackage: Moving '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Saved/BP_BaseCharacter169375A2434531DE200688B340754479.tmp' to '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Content/Blueprints/Characters/BP_BaseCharacter.uasset'
+[2025.05.06-11.04.37:966][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.695 ms (total: 1.42 sec)
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: Enabled validators:
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-11.04.38:204][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-11.04.38:204][ 79]AssetCheck: /Game/Blueprints/Characters/BP_BaseCharacter Validating asset
+[2025.05.06-11.04.39:767][166]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.04.39:781][166]LogPlayLevel: [PlayLevel] Compiling BP_BaseCharacter before play...
+[2025.05.06-11.04.39:795][166]LogPlayLevel: [PlayLevel]   Compiling BP_BaseEnemy as a dependent...
+[2025.05.06-11.04.39:800][166]LogPlayLevel: [PlayLevel]   Compiling BP_BaseHero as a dependent...
+[2025.05.06-11.04.39:801][166]LogPlayLevel: [PlayLevel]   Compiling BP_BanditEnemy as a dependent...
+[2025.05.06-11.04.39:801][166]LogPlayLevel: [PlayLevel]   Compiling BP_GoblinEnemy as a dependent...
+[2025.05.06-11.04.39:801][166]LogPlayLevel: [PlayLevel]   Compiling BP_Mage as a dependent...
+[2025.05.06-11.04.39:801][166]LogPlayLevel: [PlayLevel]   Compiling BP_Rogue as a dependent...
+[2025.05.06-11.04.39:801][166]LogPlayLevel: [PlayLevel]   Compiling BP_Warrior as a dependent...
+[2025.05.06-11.04.39:882][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.06-11.04.39:886][166]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (8 blueprints)
+[2025.05.06-11.04.39:886][166]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.04.39:888][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002075s)
+[2025.05.06-11.04.39:888][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.002108s)
+[2025.05.06-11.04.39:911][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.06-11.04.39:912][166]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.04.39:914][166]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2025.05.06-11.04.39:915][166]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.06-11.04.39:915][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.04.39:915][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.04.39:915][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.04.39:915][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.04.39:915][166]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.04.39:915][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.04.39:915][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.04.39:915][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.04.39:915][166]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.04.39:915][166]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.04.39:915][166]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.04.39:918][166]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.04.39:934][166]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.04.39:934][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.04.39:934][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.04.39:934][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.04.39:935][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.06-11.04.39:935][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.06-11.04.39:938][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.06-11.04.39:938][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.06-11.04.39:938][166]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.06-11.04.39:938][166]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_1'.
+[2025.05.06-11.04.39:938][166]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.06-11.04.40:070][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.04.40:070][166]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.04.40:071][166]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.04.40
+[2025.05.06-11.04.40:072][166]LogWorld: Bringing up level for play took: 0.001275
+[2025.05.06-11.04.40:074][166]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.05.06-11.04.40:079][166]PIE: Server logged in
+[2025.05.06-11.04.40:079][166]PIE: Play in editor total start time 0.307 seconds.
+[2025.05.06-11.04.42:070][261]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Battle_Plane"
+[2025.05.06-11.04.42:070][261]LogNet: Browse: /Game/Levels/Battle_Plane
+[2025.05.06-11.04.42:070][261]LogLoad: LoadMap: /Game/Levels/Battle_Plane
+[2025.05.06-11.04.42:070][261]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.04.42:070][261]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.04.42:070][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.04.42:114][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.04.42:116][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.05.06-11.04.42:119][261]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-11.04.42:124][261]LogAudio: Display: Audio Device (ID: 7) registered with world 'Battle_Plane'.
+[2025.05.06-11.04.42:124][261]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Plane
+[2025.05.06-11.04.42:125][261]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2025.05.06-11.04.42:125][261]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.04.42:128][261]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battle_Plane.Battle_Plane up for play (max tick rate 60) at 2025.05.06-03.04.42
+[2025.05.06-11.04.42:128][261]LogWorld: Bringing up level for play took: 0.002296
+[2025.05.06-11.04.42:128][261]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.06-11.04.42:129][261]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.04.42:129][261]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Warrior_C]
+[2025.05.06-11.04.42:129][261]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Warrior_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.06-11.04.42:129][261]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.04.42:130][261]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.04.42:130][261]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.04.42:132][261]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.04.42:132][261]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.04.42:132][261]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.04.42:133][261]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.05.06-11.04.42:133][261]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.06-11.04.42:133][261]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.06-11.04.42:135][261]LogLoad: Took 0.064386 seconds to LoadMap(/Game/Levels/Battle_Plane)
+[2025.05.06-11.04.42:135][261]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Battle_Plane
+[2025.05.06-11.04.46:638][531]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.04.46:638][531]LogBlueprintUserMessages: [BP_Rogue_C_0] 11
+[2025.05.06-11.04.48:218][626]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.04.48:218][626]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 34
+[2025.05.06-11.04.49:802][721]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.04.49:802][721]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 29
+[2025.05.06-11.04.53:468][941]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.04.53:468][941]LogBlueprintUserMessages: [BP_Warrior_C_1] 10
+[2025.05.06-11.04.55:052][ 36]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.04.55:052][ 36]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 49
+[2025.05.06-11.05.00:085][338]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.05.00:085][338]LogBlueprintUserMessages: [BP_Mage_C_0] 18
+[2025.05.06-11.05.06:970][751]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.05.06:970][751]LogBlueprintUserMessages: [BP_Rogue_C_0] 6
+[2025.05.06-11.05.08:554][846]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.05.08:554][846]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 47
+[2025.05.06-11.05.10:137][941]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.05.10:137][941]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 38
+[2025.05.06-11.05.13:853][164]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.05.13:854][164]LogBlueprintUserMessages: [BP_Warrior_C_1] 6
+[2025.05.06-11.05.15:438][259]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.05.15:438][259]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 26
+[2025.05.06-11.05.21:454][620]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.05.21:454][620]LogBlueprintUserMessages: [BP_Mage_C_0] 14
+[2025.05.06-11.05.25:004][833]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.05.25:004][833]LogBlueprintUserMessages: [BP_Rogue_C_0] 5
+[2025.05.06-11.05.26:587][928]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.05.26:587][928]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 43
+[2025.05.06-11.05.28:171][ 23]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.05.28:171][ 23]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 38
+[2025.05.06-11.05.31:617][229]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.05.31:617][229]LogBlueprintUserMessages: [BP_Warrior_C_1] 2
+[2025.05.06-11.05.33:202][324]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.05.33:202][324]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 24
+[2025.05.06-11.05.38:635][650]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.05.38:635][650]LogBlueprintUserMessages: [BP_Mage_C_0] 2
+[2025.05.06-11.05.42:852][903]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.05.42:852][903]LogBlueprintUserMessages: [BP_Rogue_C_0] 13
+[2025.05.06-11.05.44:435][998]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.05.44:435][998]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 34
+[2025.05.06-11.05.46:020][ 93]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.05.46:020][ 93]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 35
+[2025.05.06-11.05.49:752][317]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.05.49:752][317]LogBlueprintUserMessages: [BP_Warrior_C_1] 12
+[2025.05.06-11.05.51:336][412]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.05.51:336][412]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 33
+[2025.05.06-11.05.54:586][607]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.05.54:586][607]LogBlueprintUserMessages: [BP_Mage_C_0] 11
+[2025.05.06-11.05.57:952][809]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.05.57:952][809]LogBlueprintUserMessages: [BP_Rogue_C_0] 7
+[2025.05.06-11.05.59:537][904]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.05.59:538][904]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 29
+[2025.05.06-11.06.01:120][999]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.06.01:120][999]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 31
+[2025.05.06-11.06.04:770][218]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.06.04:770][218]LogBlueprintUserMessages: [BP_Warrior_C_1] 6
+[2025.05.06-11.06.06:353][313]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.06.06:353][313]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 30
+[2025.05.06-11.06.09:453][499]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.06.09:453][499]LogBlueprintUserMessages: [BP_Mage_C_0] 3
+[2025.05.06-11.06.12:870][704]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.06.12:870][704]LogBlueprintUserMessages: [BP_Rogue_C_0] 0
+[2025.05.06-11.06.14:454][799]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.06.14:454][799]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 25
+[2025.05.06-11.06.16:040][894]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.06.16:040][894]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 24
+[2025.05.06-11.06.19:773][118]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.06.19:773][118]LogBlueprintUserMessages: [BP_Warrior_C_1] 0
+[2025.05.06-11.06.24:372][394]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.06.24:372][394]LogBlueprintUserMessages: [BP_Mage_C_0] 0
+[2025.05.06-11.06.44:597][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.06.44:597][604]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battle_Plane
+[2025.05.06-11.06.44:597][604]LogSlate: Window 'ATB_System Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.06-11.06.44:604][604]LogWorld: UWorld::CleanupWorld for Battle_Plane, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.06.44:604][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.06.44:606][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.06.44:611][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.06.44:631][604]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.06-11.06.44:631][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.06-11.06.44:633][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.06-11.06.44:649][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.05.06-11.06.44:671][605]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.05.06-11.06.46:400][708]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.06.46:405][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.06.46:405][708]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.06.46:407][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001662s)
+[2025.05.06-11.06.46:407][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001694s)
+[2025.05.06-11.06.46:427][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.05.06-11.06.46:428][708]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.06.46:429][708]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2025.05.06-11.06.46:430][708]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.05.06-11.06.46:430][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.06.46:430][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.06.46:430][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.06.46:430][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.06.46:430][708]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.06.46:430][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.06.46:430][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.06.46:430][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.06.46:430][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.06.46:430][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.06.46:430][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.06.46:432][708]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.06.46:447][708]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.06.46:447][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.06.46:447][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.06.46:447][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.06.46:447][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.05.06-11.06.46:447][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.05.06-11.06.46:450][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.05.06-11.06.46:450][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.05.06-11.06.46:450][708]LogInit: FAudioDevice initialized with ID 8.
+[2025.05.06-11.06.46:450][708]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_1'.
+[2025.05.06-11.06.46:450][708]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.06-11.06.46:579][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.06.46:579][708]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.06.46:580][708]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.06.46
+[2025.05.06-11.06.46:581][708]LogWorld: Bringing up level for play took: 0.001343
+[2025.05.06-11.06.46:583][708]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.05.06-11.06.46:588][708]PIE: Server logged in
+[2025.05.06-11.06.46:591][708]PIE: Play in editor total start time 0.185 seconds.
+[2025.05.06-11.06.48:982][840]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Battle_Plane"
+[2025.05.06-11.06.48:982][840]LogNet: Browse: /Game/Levels/Battle_Plane
+[2025.05.06-11.06.48:982][840]LogLoad: LoadMap: /Game/Levels/Battle_Plane
+[2025.05.06-11.06.48:982][840]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.06.48:983][840]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.06.48:983][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.06.49:025][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.06.49:027][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.05.06-11.06.49:028][840]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-11.06.49:032][840]LogAudio: Display: Audio Device (ID: 8) registered with world 'Battle_Plane'.
+[2025.05.06-11.06.49:032][840]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Plane
+[2025.05.06-11.06.49:033][840]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2025.05.06-11.06.49:033][840]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.06.49:036][840]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battle_Plane.Battle_Plane up for play (max tick rate 60) at 2025.05.06-03.06.49
+[2025.05.06-11.06.49:036][840]LogWorld: Bringing up level for play took: 0.002384
+[2025.05.06-11.06.49:036][840]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.06-11.06.49:037][840]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.06.49:037][840]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Warrior_C]
+[2025.05.06-11.06.49:037][840]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Warrior_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.06-11.06.49:038][840]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.06.49:039][840]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.06.49:039][840]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.06.49:039][840]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.06.49:040][840]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.06.49:040][840]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.06.49:041][840]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.05.06-11.06.49:041][840]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.06-11.06.49:041][840]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.06-11.06.49:043][840]LogLoad: Took 0.061583 seconds to LoadMap(/Game/Levels/Battle_Plane)
+[2025.05.06-11.06.49:043][840]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Battle_Plane
+[2025.05.06-11.06.53:860][129]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.06.53:860][129]LogBlueprintUserMessages: [BP_Rogue_C_0] 12
+[2025.05.06-11.06.55:444][224]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.06.55:444][224]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 48
+[2025.05.06-11.06.57:028][319]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.06.57:028][319]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 34
+[2025.05.06-11.07.00:627][535]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.00:627][535]LogBlueprintUserMessages: [BP_Warrior_C_1] 14
+[2025.05.06-11.07.02:211][630]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.07.02:211][630]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 48
+[2025.05.06-11.07.07:661][957]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.07:661][957]LogBlueprintUserMessages: [BP_Mage_C_0] 13
+[2025.05.06-11.07.11:877][210]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.11:877][210]LogBlueprintUserMessages: [BP_Rogue_C_0] 11
+[2025.05.06-11.07.13:461][305]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.07.13:461][305]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 30
+[2025.05.06-11.07.15:043][400]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.07.15:045][400]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 42
+[2025.05.06-11.07.18:061][581]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.18:061][581]LogBlueprintUserMessages: [BP_Warrior_C_1] 10
+[2025.05.06-11.07.19:645][676]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.07.19:645][676]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 27
+[2025.05.06-11.07.23:611][914]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.23:611][914]LogBlueprintUserMessages: [BP_Mage_C_0] 9
+[2025.05.06-11.07.26:678][ 98]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.26:678][ 98]LogBlueprintUserMessages: [BP_Rogue_C_0] 6
+[2025.05.06-11.07.28:261][193]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.07.28:261][193]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 37
+[2025.05.06-11.07.29:845][288]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.07.29:845][288]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 34
+[2025.05.06-11.07.32:727][461]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.32:727][461]LogBlueprintUserMessages: [BP_Warrior_C_1] 3
+[2025.05.06-11.07.33:867][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1370.182129
+[2025.05.06-11.07.34:050][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.07.34:050][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1370.348511, Update Interval: 305.464020
+[2025.05.06-11.07.34:324][556]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.07.34:324][556]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 32
+[2025.05.06-11.07.37:573][751]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.37:573][751]LogBlueprintUserMessages: [BP_Mage_C_0] 2
+[2025.05.06-11.07.40:607][933]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.07.40:607][933]LogBlueprintUserMessages: [BP_Rogue_C_0] -1
+[2025.05.06-11.07.42:191][ 28]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.07.42:191][ 28]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 21
+[2025.05.06-11.07.58:327][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.07.58:327][993]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battle_Plane
+[2025.05.06-11.07.58:327][993]LogSlate: Window 'ATB_System Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.06-11.07.58:335][993]LogWorld: UWorld::CleanupWorld for Battle_Plane, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.07.58:336][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.07.58:339][993]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.07.58:345][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.07.58:364][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.05.06-11.07.58:364][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.06-11.07.58:373][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.05.06-11.07.58:381][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.05.06-11.07.58:403][994]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.05.06-11.08.00:119][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.08.00:124][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.08.00:124][ 97]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.08.00:126][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001717s)
+[2025.05.06-11.08.00:126][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001759s)
+[2025.05.06-11.08.00:144][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.05.06-11.08.00:144][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.08.00:146][ 97]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2025.05.06-11.08.00:146][ 97]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.05.06-11.08.00:146][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.08.00:146][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.08.00:146][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.08.00:146][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.08.00:146][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.08.00:146][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.08.00:146][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.08.00:146][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.08.00:146][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.08.00:146][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.08.00:146][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.08.00:148][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.08.00:163][ 97]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.08.00:164][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.08.00:164][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.08.00:164][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.08.00:164][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.05.06-11.08.00:164][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.05.06-11.08.00:168][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.05.06-11.08.00:168][ 97]LogInit: FAudioDevice initialized with ID 9.
+[2025.05.06-11.08.00:168][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.05.06-11.08.00:168][ 97]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_1'.
+[2025.05.06-11.08.00:168][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.06-11.08.00:288][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.08.00:288][ 97]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.08.00:289][ 97]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.08.00
+[2025.05.06-11.08.00:290][ 97]LogWorld: Bringing up level for play took: 0.001026
+[2025.05.06-11.08.00:293][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.05.06-11.08.00:297][ 97]PIE: Server logged in
+[2025.05.06-11.08.00:300][ 97]PIE: Play in editor total start time 0.176 seconds.
+[2025.05.06-11.08.03:752][294]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Battle_Plane"
+[2025.05.06-11.08.03:752][294]LogNet: Browse: /Game/Levels/Battle_Plane
+[2025.05.06-11.08.03:752][294]LogLoad: LoadMap: /Game/Levels/Battle_Plane
+[2025.05.06-11.08.03:752][294]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.08.03:754][294]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.08.03:754][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.08.03:797][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.08.03:799][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.05.06-11.08.03:800][294]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-11.08.03:802][294]LogAudio: Display: Audio Device (ID: 9) registered with world 'Battle_Plane'.
+[2025.05.06-11.08.03:802][294]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Plane
+[2025.05.06-11.08.03:804][294]LogPlayLevel: PIE: World Init took: (0.001161s)
+[2025.05.06-11.08.03:804][294]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.08.03:805][294]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battle_Plane.Battle_Plane up for play (max tick rate 60) at 2025.05.06-03.08.03
+[2025.05.06-11.08.03:805][294]LogWorld: Bringing up level for play took: 0.001726
+[2025.05.06-11.08.03:806][294]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.06-11.08.03:806][294]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.08.03:806][294]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Warrior_C]
+[2025.05.06-11.08.03:806][294]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Warrior_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.06-11.08.03:807][294]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.08.03:807][294]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.08.03:807][294]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.08.03:808][294]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.08.03:808][294]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.08.03:808][294]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.08.03:809][294]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.05.06-11.08.03:809][294]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.06-11.08.03:809][294]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.06-11.08.03:810][294]LogLoad: Took 0.057507 seconds to LoadMap(/Game/Levels/Battle_Plane)
+[2025.05.06-11.08.03:810][294]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Battle_Plane
+[2025.05.06-11.08.08:774][592]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.08.08:774][592]LogBlueprintUserMessages: [BP_Rogue_C_0] 11
+[2025.05.06-11.08.10:357][687]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.08.10:357][687]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 38
+[2025.05.06-11.08.11:941][782]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.08.11:941][782]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 46
+[2025.05.06-11.08.14:624][943]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.08.14:624][943]LogBlueprintUserMessages: [BP_Warrior_C_1] 7
+[2025.05.06-11.08.16:207][ 38]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.08.16:207][ 38]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 45
+[2025.05.06-11.08.19:090][211]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.08.19:090][211]LogBlueprintUserMessages: [BP_Mage_C_0] 3
+[2025.05.06-11.08.22:090][391]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.08.22:090][391]LogBlueprintUserMessages: [BP_Rogue_C_0] 2
+[2025.05.06-11.08.23:674][486]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.08.23:674][486]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 36
+[2025.05.06-11.08.25:257][581]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.08.25:257][581]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 44
+[2025.05.06-11.08.28:290][763]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_0
+[2025.05.06-11.08.28:290][763]LogBlueprintUserMessages: [BP_Warrior_C_1] -3
+[2025.05.06-11.08.29:874][858]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.08.29:874][858]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 42
+[2025.05.06-11.08.34:240][120]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.08.34:240][120]LogBlueprintUserMessages: [BP_Mage_C_0] 14
+[2025.05.06-11.08.37:358][306]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.08.37:358][306]LogBlueprintUserMessages: [BP_Rogue_C_0] 13
+[2025.05.06-11.08.38:942][401]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.08.38:942][401]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 33
+[2025.05.06-11.08.42:225][598]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.08.42:225][598]LogBlueprintUserMessages: [BP_Warrior_C_1] 11
+[2025.05.06-11.08.43:809][693]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.08.43:809][693]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 42
+[2025.05.06-11.08.46:891][878]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.08.46:891][878]LogBlueprintUserMessages: [BP_Mage_C_0] 8
+[2025.05.06-11.08.50:208][ 77]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.08.50:208][ 77]LogBlueprintUserMessages: [BP_Rogue_C_0] 7
+[2025.05.06-11.08.51:792][172]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Rogue_C_0
+[2025.05.06-11.08.51:792][172]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 34
+[2025.05.06-11.08.55:125][372]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.08.55:125][372]LogBlueprintUserMessages: [BP_Warrior_C_1] 6
+[2025.05.06-11.08.56:710][467]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior_C_1
+[2025.05.06-11.08.56:710][467]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 42
+[2025.05.06-11.08.59:942][661]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.08.59:942][661]LogBlueprintUserMessages: [BP_Mage_C_0] 3
+[2025.05.06-11.09.03:525][876]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.09.03:525][876]LogBlueprintUserMessages: [BP_Rogue_C_0] 1
+[2025.05.06-11.09.05:110][971]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.09.05:110][971]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 31
+[2025.05.06-11.09.08:326][164]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy_C_1
+[2025.05.06-11.09.08:326][164]LogBlueprintUserMessages: [BP_Warrior_C_1] -1
+[2025.05.06-11.09.09:909][259]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.09.09:909][259]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 28
+[2025.05.06-11.09.17:126][692]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.09.17:126][692]LogBlueprintUserMessages: [BP_Mage_C_0] 16
+[2025.05.06-11.09.20:543][897]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.09.20:543][897]LogBlueprintUserMessages: [BP_Rogue_C_0] 13
+[2025.05.06-11.09.24:060][108]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.09.24:060][108]LogBlueprintUserMessages: [BP_Warrior_C_1] 9
+[2025.05.06-11.09.25:643][203]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Mage_C_0
+[2025.05.06-11.09.25:643][203]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 27
+[2025.05.06-11.09.28:677][385]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.09.28:677][385]LogBlueprintUserMessages: [BP_Mage_C_0] 6
+[2025.05.06-11.09.31:894][578]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.09.31:894][578]LogBlueprintUserMessages: [BP_Rogue_C_0] 3
+[2025.05.06-11.09.35:194][776]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_BanditEnemy_C_0
+[2025.05.06-11.09.35:194][776]LogBlueprintUserMessages: [BP_Warrior_C_1] -2
+[2025.05.06-11.09.39:477][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.09.39:477][ 31]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battle_Plane
+[2025.05.06-11.09.39:477][ 31]LogSlate: Window 'ATB_System Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.05.06-11.09.39:486][ 31]LogWorld: UWorld::CleanupWorld for Battle_Plane, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.09.39:487][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.09.39:489][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.09.39:494][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.09.39:514][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.05.06-11.09.39:514][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.06-11.09.39:525][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.05.06-11.09.39:533][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.06-11.09.39:571][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.05.06-11.10.18:430][332]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.05.06-11.10.18:476][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.05.06-11.10.18:496][334]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.05.06-11.10.19:917][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Enemies/BP_BaseEnemy.BP_BaseEnemy
+[2025.05.06-11.10.19:917][411]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.05.06-11.10.53:088][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.06-11.10.53:217][307]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Enemies/BP_BaseEnemy] ([2] browsable assets)...
+[2025.05.06-11.10.53:255][307]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/Enemies/BP_BaseEnemy.BP_BaseEnemy]
+[2025.05.06-11.10.53:255][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Enemies/BP_BaseEnemy]
+[2025.05.06-11.10.53:259][307]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Enemies/BP_BaseEnemy
+[2025.05.06-11.10.53:260][307]LogSavePackage: Moving '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Saved/BP_BaseEnemy8DBB6A244C9951E33B657DA769A9003F.tmp' to '../../../../../../Users/Will/Desktop/Homework/CAGD/280 - Scripting/RPG_ATB_System/ATB_System_CAGD280/ATB_System/Content/Blueprints/Characters/Enemies/BP_BaseEnemy.uasset'
+[2025.05.06-11.10.53:270][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.503 ms (total: 1.60 sec)
+[2025.05.06-11.10.53:468][307]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.06-11.10.53:468][307]LogContentValidation: Enabled validators:
+[2025.05.06-11.10.53:468][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.06-11.10.53:468][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.06-11.10.53:468][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.06-11.10.53:468][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.06-11.10.53:470][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.06-11.10.53:470][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.06-11.10.53:470][307]AssetCheck: /Game/Blueprints/Characters/Enemies/BP_BaseEnemy Validating asset
+[2025.05.06-11.10.56:260][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.05.06-11.10.57:953][566]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.10.57:958][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.10.57:958][566]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.10.57:960][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2025.05.06-11.10.57:960][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001764s)
+[2025.05.06-11.10.57:978][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.06-11.10.57:983][566]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.10.57:985][566]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2025.05.06-11.10.57:985][566]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.05.06-11.10.57:985][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.10.57:985][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.10.57:985][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.10.57:985][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.10.57:985][566]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.10.57:985][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.10.57:985][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.10.57:985][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.10.57:985][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.10.57:985][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.10.57:985][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.10.57:988][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.10.58:002][566]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.10.58:003][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.10.58:003][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.10.58:003][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.10.58:003][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.05.06-11.10.58:003][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.05.06-11.10.58:006][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.05.06-11.10.58:006][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.05.06-11.10.58:006][566]LogInit: FAudioDevice initialized with ID 10.
+[2025.05.06-11.10.58:006][566]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_1'.
+[2025.05.06-11.10.58:006][566]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.06-11.10.58:014][566]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.10.58:014][566]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.10.58
+[2025.05.06-11.10.58:016][566]LogWorld: Bringing up level for play took: 0.001116
+[2025.05.06-11.10.58:018][566]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.05.06-11.10.58:019][566]PIE: Server logged in
+[2025.05.06-11.10.58:021][566]PIE: Play in editor total start time 0.063 seconds.
+[2025.05.06-11.11.00:067][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.11.00:067][683]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.11.00:068][683]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.11.00:068][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.00:071][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.11.00:076][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.00:090][683]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.11.00:092][683]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.05.06-11.11.00:092][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.06-11.11.00:094][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.05.06-11.11.00:098][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.11.00:100][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.06-11.11.00:143][685]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.05.06-11.11.02:420][818]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.11.02:426][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.11.02:427][818]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.11.02:428][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001600s)
+[2025.05.06-11.11.02:428][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001627s)
+[2025.05.06-11.11.02:442][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.05.06-11.11.02:445][818]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.11.02:446][818]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2025.05.06-11.11.02:446][818]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.05.06-11.11.02:446][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.11.02:446][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.11.02:446][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.11.02:446][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.11.02:446][818]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.11.02:446][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.11.02:446][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.11.02:446][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.11.02:446][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.11.02:446][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.11.02:446][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.11.02:450][818]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.11.02:465][818]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.11.02:465][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.11.02:465][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.11.02:465][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.11.02:465][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.05.06-11.11.02:465][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.05.06-11.11.02:468][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.05.06-11.11.02:468][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.05.06-11.11.02:468][818]LogInit: FAudioDevice initialized with ID 11.
+[2025.05.06-11.11.02:468][818]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_1'.
+[2025.05.06-11.11.02:468][818]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.06-11.11.02:476][818]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.11.02:478][818]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.11.02
+[2025.05.06-11.11.02:478][818]LogWorld: Bringing up level for play took: 0.001041
+[2025.05.06-11.11.02:480][818]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.05.06-11.11.02:482][818]PIE: Server logged in
+[2025.05.06-11.11.02:484][818]PIE: Play in editor total start time 0.057 seconds.
+[2025.05.06-11.11.03:498][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.11.03:498][873]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.11.03:499][873]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.11.03:499][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.03:502][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.11.03:506][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.03:523][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.11.03:523][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.05.06-11.11.03:523][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.06-11.11.03:526][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.05.06-11.11.03:532][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.06-11.11.03:575][875]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.05.06-11.11.10:985][247]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.11.10:991][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.11.10:991][247]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.11.10:993][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001559s)
+[2025.05.06-11.11.10:993][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001585s)
+[2025.05.06-11.11.11:009][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.05.06-11.11.11:011][247]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.11.11:012][247]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2025.05.06-11.11.11:013][247]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.05.06-11.11.11:013][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.11.11:013][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.11.11:013][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.11.11:013][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.11.11:013][247]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.11.11:013][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.11.11:013][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.11.11:013][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.11.11:013][247]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.11.11:013][247]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.11.11:013][247]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.11.11:015][247]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.11.11:029][247]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.11.11:029][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.11.11:029][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.11.11:029][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.11.11:029][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.05.06-11.11.11:029][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.05.06-11.11.11:033][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.05.06-11.11.11:033][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.05.06-11.11.11:033][247]LogInit: FAudioDevice initialized with ID 12.
+[2025.05.06-11.11.11:033][247]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_1'.
+[2025.05.06-11.11.11:034][247]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.06-11.11.11:036][247]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.11.11:036][247]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.11.11
+[2025.05.06-11.11.11:038][247]LogWorld: Bringing up level for play took: 0.000862
+[2025.05.06-11.11.11:040][247]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.05.06-11.11.11:041][247]PIE: Server logged in
+[2025.05.06-11.11.11:043][247]PIE: Play in editor total start time 0.052 seconds.
+[2025.05.06-11.11.12:611][337]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Battle_Plane"
+[2025.05.06-11.11.12:611][337]LogNet: Browse: /Game/Levels/Battle_Plane
+[2025.05.06-11.11.12:611][337]LogLoad: LoadMap: /Game/Levels/Battle_Plane
+[2025.05.06-11.11.12:611][337]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.11.12:611][337]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.11.12:612][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.12:631][337]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.11.12:633][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.06-11.11.12:636][337]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-11.11.12:639][337]LogAudio: Display: Audio Device (ID: 12) registered with world 'Battle_Plane'.
+[2025.05.06-11.11.12:639][337]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Plane
+[2025.05.06-11.11.12:641][337]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2025.05.06-11.11.12:641][337]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.11.12:643][337]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battle_Plane.Battle_Plane up for play (max tick rate 60) at 2025.05.06-03.11.12
+[2025.05.06-11.11.12:643][337]LogWorld: Bringing up level for play took: 0.001974
+[2025.05.06-11.11.12:643][337]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.06-11.11.12:644][337]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.12:644][337]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Warrior_C]
+[2025.05.06-11.11.12:644][337]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Warrior_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.06-11.11.12:644][337]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.12:645][337]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.12:645][337]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.12:645][337]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.12:646][337]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.12:647][337]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.12:647][337]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.05.06-11.11.12:647][337]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.06-11.11.12:647][337]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.06-11.11.12:649][337]LogLoad: Took 0.038163 seconds to LoadMap(/Game/Levels/Battle_Plane)
+[2025.05.06-11.11.12:649][337]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Battle_Plane
+[2025.05.06-11.11.18:344][679]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.11.18:344][679]LogBlueprintUserMessages: [BP_Rogue_C_0] 12
+[2025.05.06-11.11.19:928][774]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Mage0
+[2025.05.06-11.11.19:928][774]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 29
+[2025.05.06-11.11.21:511][869]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Rogue0
+[2025.05.06-11.11.21:511][869]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 34
+[2025.05.06-11.11.24:278][ 35]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.11.24:278][ 35]LogBlueprintUserMessages: [BP_Warrior_C_1] 7
+[2025.05.06-11.11.25:860][130]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Mage0
+[2025.05.06-11.11.25:862][130]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 26
+[2025.05.06-11.11.28:661][298]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.11.28:661][298]LogBlueprintUserMessages: [BP_Mage_C_0] 3
+[2025.05.06-11.11.31:727][482]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.11.31:727][482]LogBlueprintUserMessages: [BP_Rogue_C_0] -1
+[2025.05.06-11.11.41:668][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.11.41:668][ 76]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battle_Plane
+[2025.05.06-11.11.41:669][ 76]LogWorld: UWorld::CleanupWorld for Battle_Plane, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.11.41:669][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.41:671][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.11.41:676][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.41:693][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.11.41:694][ 76]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.05.06-11.11.41:694][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.06-11.11.41:697][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.05.06-11.11.41:705][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.06-11.11.41:748][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.05.06-11.11.42:951][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.06-11.11.42:957][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.06-11.11.42:957][150]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.11.42:958][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001771s)
+[2025.05.06-11.11.42:958][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.001805s)
+[2025.05.06-11.11.42:978][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.05.06-11.11.42:980][150]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.05.06-11.11.42:982][150]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2025.05.06-11.11.42:982][150]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.05.06-11.11.42:982][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.06-11.11.42:982][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.06-11.11.42:982][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.06-11.11.42:982][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.06-11.11.42:982][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.06-11.11.42:982][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.06-11.11.42:982][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.06-11.11.42:982][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.06-11.11.42:983][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.06-11.11.42:983][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.06-11.11.42:983][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.06-11.11.42:985][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.06-11.11.43:000][150]LogAudioMixer: Display: Using Audio Hardware Device LG TV (NVIDIA High Definition Audio)
+[2025.05.06-11.11.43:000][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.06-11.11.43:000][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.06-11.11.43:000][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.06-11.11.43:000][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.05.06-11.11.43:000][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.05.06-11.11.43:003][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.05.06-11.11.43:003][150]LogInit: FAudioDevice initialized with ID 13.
+[2025.05.06-11.11.43:003][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.05.06-11.11.43:003][150]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_1'.
+[2025.05.06-11.11.43:003][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.06-11.11.43:006][150]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.11.43:007][150]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2025.05.06-03.11.43
+[2025.05.06-11.11.43:008][150]LogWorld: Bringing up level for play took: 0.000829
+[2025.05.06-11.11.43:010][150]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.05.06-11.11.43:011][150]PIE: Server logged in
+[2025.05.06-11.11.43:012][150]PIE: Play in editor total start time 0.057 seconds.
+[2025.05.06-11.11.46:245][339]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Levels/Battle_Plane"
+[2025.05.06-11.11.46:245][339]LogNet: Browse: /Game/Levels/Battle_Plane
+[2025.05.06-11.11.46:245][339]LogLoad: LoadMap: /Game/Levels/Battle_Plane
+[2025.05.06-11.11.46:245][339]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.05.06-11.11.46:246][339]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.11.46:246][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.11.46:288][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.06-11.11.46:290][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.05.06-11.11.46:292][339]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.06-11.11.46:294][339]LogAudio: Display: Audio Device (ID: 13) registered with world 'Battle_Plane'.
+[2025.05.06-11.11.46:294][339]LogChaosDD: Creating Chaos Debug Draw Scene for world Battle_Plane
+[2025.05.06-11.11.46:296][339]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2025.05.06-11.11.46:296][339]LogLoad: Game class is 'BP_GameMode_C'
+[2025.05.06-11.11.46:298][339]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Battle_Plane.Battle_Plane up for play (max tick rate 60) at 2025.05.06-03.11.46
+[2025.05.06-11.11.46:299][339]LogWorld: Bringing up level for play took: 0.002033
+[2025.05.06-11.11.46:299][339]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.05.06-11.11.46:300][339]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.46:300][339]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_Warrior_C]
+[2025.05.06-11.11.46:300][339]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_Warrior_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.06-11.11.46:300][339]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.46:301][339]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.46:301][339]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.46:302][339]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.46:302][339]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.46:302][339]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2025.05.06-11.11.46:303][339]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2025.05.06-11.11.46:303][339]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.06-11.11.46:303][339]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.06-11.11.46:304][339]LogLoad: Took 0.059003 seconds to LoadMap(/Game/Levels/Battle_Plane)
+[2025.05.06-11.11.46:304][339]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Levels/Battle_Plane
+[2025.05.06-11.11.54:698][843]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.11.54:698][843]LogBlueprintUserMessages: [BP_Rogue_C_0] 13
+[2025.05.06-11.11.56:283][938]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Rogue0
+[2025.05.06-11.11.56:283][938]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 35
+[2025.05.06-11.11.57:865][ 33]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Warrior1
+[2025.05.06-11.11.57:865][ 33]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 49
+[2025.05.06-11.12.01:365][243]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.12.01:365][243]LogBlueprintUserMessages: [BP_Warrior_C_1] 11
+[2025.05.06-11.12.02:949][338]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Warrior1
+[2025.05.06-11.12.02:949][338]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 47
+[2025.05.06-11.12.05:915][516]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.12.05:915][516]LogBlueprintUserMessages: [BP_Mage_C_0] 7
+[2025.05.06-11.12.08:655][680]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.12.08:655][680]LogBlueprintUserMessages: [BP_Rogue_C_0] 6
+[2025.05.06-11.12.10:239][775]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] WHO WE HITTIN: BP_Mage0
+[2025.05.06-11.12.10:239][775]LogBlueprintUserMessages: [BP_GoblinEnemy_C_0] 30
+[2025.05.06-11.12.11:822][870]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] WHO WE HITTIN: BP_Mage0
+[2025.05.06-11.12.11:822][870]LogBlueprintUserMessages: [BP_GoblinEnemy_C_1] 27
+[2025.05.06-11.12.14:855][ 52]LogBlueprintUserMessages: [BP_Warrior_C_1] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.12.14:855][ 52]LogBlueprintUserMessages: [BP_Warrior_C_1] 1
+[2025.05.06-11.12.16:438][147]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] WHO WE HITTIN: BP_Mage0
+[2025.05.06-11.12.16:438][147]LogBlueprintUserMessages: [BP_BanditEnemy_C_0] 26
+[2025.05.06-11.12.19:688][342]LogBlueprintUserMessages: [BP_Rogue_C_0] WHO WE HITTIN: BP_GoblinEnemy0
+[2025.05.06-11.12.19:689][342]LogBlueprintUserMessages: [BP_Rogue_C_0] -2
+[2025.05.06-11.12.27:205][793]LogBlueprintUserMessages: [BP_Mage_C_0] WHO WE HITTIN: BP_BanditEnemy0
+[2025.05.06-11.12.27:205][793]LogBlueprintUserMessages: [BP_Mage_C_0] 16
+[2025.05.06-11.12.35:868][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.12.35:868][311]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Battle_Plane
+[2025.05.06-11.12.35:869][311]LogWorld: UWorld::CleanupWorld for Battle_Plane, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.12.35:869][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.12.35:871][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.06-11.12.35:875][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.12.35:895][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.06-11.12.35:895][311]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.05.06-11.12.35:895][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.06-11.12.35:897][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.05.06-11.12.35:905][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.05.06-11.12.35:948][313]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.05.06-11.12.57:447][340]LogSlate: Window 'BP_BaseEnemy' being destroyed
+[2025.05.06-11.12.57:453][340]LogSlate: Window 'BP_BaseEnemy' being destroyed
+[2025.05.06-11.12.57:458][340]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.06-11.12.57:458][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.06-11.12.57:515][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.06-11.13.08:253][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1704.570679
+[2025.05.06-11.13.09:253][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.13.09:253][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1705.237793, Update Interval: 335.684692
