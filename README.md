@@ -1,9 +1,8 @@
-# ATB_System_CAGD280
- An Active Turn-based system for RPG built in Unreal, made for CAGD 280 @ CSU Chico
+# ATB System (CAGD280)
 
  ## About This Project
 
- This is an Active Time Battle (ATB) system meant to replicate the combat in the original Final Fantasy 7.
+ This is an Active Time Battle (ATB) system meant to replicate the combat in the original Final Fantasy 7. Built in Unreal 5.5
 
  ## To Start
 
@@ -14,15 +13,18 @@
  Using the mouse, select 'Attack' when prompted, then select an enemy to attack.
 
  ## Key features
-    - UI that dynamically loads players, enemies, attacks into various submenus.
+    - UI that dynamically loads players and enemies into various submenus 
+	- General color and style of the UI in Final Fantasy 7.
 	- Turn-based system that sets turn order and resets turn based on Speed stat
-	- Dealing damage based on a Strength stat
-	- Player's health is displayed dynamically
-	- Dead enemies are removed from view, attack order, and UI; returns to Level_1 when all enemies are dead
+	- Dealing damage based on a Strength stat and other modifiers
+	- Player's health is displayed dynamically (MP & health bar to come)
+	- Dead enemies are removed from view, attack order, and UI
+	- Return to Level_1 when all enemies are dead
 	- Cameras that switch based on who is currently attacking
 
  ## To do
 	[ ] Feedback on attacks
+	[ ] HP & MP Bars
 	[ ] Magic, Skills, Items
 	[ ] Equipment, Elements, Class Skills
 	[ ] Victory menu; adding items and money
