@@ -2714,3 +2714,314 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.05.06-11.13.08:253][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1704.570679
 [2025.05.06-11.13.09:253][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.06-11.13.09:253][658]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1705.237793, Update Interval: 335.684692
+[2025.05.06-11.19.17:357][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2073.672363
+[2025.05.06-11.19.18:357][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.19.18:358][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2074.336914, Update Interval: 358.339172
+[2025.05.06-11.25.56:095][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2472.407227
+[2025.05.06-11.25.57:095][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.25.57:095][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2473.073242, Update Interval: 343.507202
+[2025.05.06-11.32.19:490][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2855.802734
+[2025.05.06-11.32.20:489][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.32.20:489][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2856.469238, Update Interval: 327.642456
+[2025.05.06-11.38.22:534][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3218.848145
+[2025.05.06-11.38.23:535][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.38.23:535][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3219.513916, Update Interval: 339.015472
+[2025.05.06-11.44.59:272][399]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3615.583984
+[2025.05.06-11.45.00:272][402]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.45.00:274][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3616.251465, Update Interval: 348.714874
+[2025.05.06-11.46.38:185][696]LogDerivedDataCache: C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.06-11.51.31:669][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4007.982178
+[2025.05.06-11.51.32:669][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.51.32:669][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4008.649414, Update Interval: 321.369049
+[2025.05.06-11.57.35:388][667]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4371.700684
+[2025.05.06-11.57.36:389][670]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-11.57.36:389][670]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4372.367188, Update Interval: 357.103180
+[2025.05.06-12.04.11:454][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4767.771484
+[2025.05.06-12.04.12:453][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-12.04.12:453][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4768.436523, Update Interval: 338.411194
+[2025.05.06-12.10.41:176][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5157.491699
+[2025.05.06-12.10.42:177][ 27]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-12.10.42:180][ 27]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5158.159180, Update Interval: 314.929047
+[2025.05.06-12.16.36:235][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5512.554199
+[2025.05.06-12.16.37:235][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-12.16.37:238][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5513.220215, Update Interval: 333.155914
+[2025.05.06-12.22.02:186][ 67]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.05.06-12.22.02:295][ 67]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-12.22.02:300][ 67]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-12.22.02:952][ 69]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-12.22.02:963][ 69]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edacd806-f264-404f-b421-d2103433fcc8}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=630.50
+[2025.05.06-12.22.02:964][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-12.22.02:972][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-12.22.12:462][ 98]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.05.06-12.37.05:244][ 98]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.05.06-12.37.06:065][ 98]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-12.37.06:066][ 98]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-12.37.07:073][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6743.364258
+[2025.05.06-12.37.07:500][100]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-12.37.07:526][100]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edacd806-f264-404f-b421-d2103433fcc8}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1306.93
+[2025.05.06-12.37.07:528][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-12.37.07:533][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-12.37.08:173][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-12.37.08:173][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6744.141113, Update Interval: 344.329346
+[2025.05.06-20.48.21:606][114]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.06-20.48.21:621][114]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 842...4a2
+[2025.05.06-20.48.21:625][114]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -2.901e+04 RefreshExpires: 1.549e+07
+[2025.05.06-20.48.22:904][115]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2025.05.06-20.48.22:936][115]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.48.22:938][115]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-20.48.24:621][115]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:54419'.
+[2025.05.06-20.48.24:648][115]LogUdpMessaging: Display: Added local interface '192.168.0.10' to multicast group '230.0.0.1:6666'
+[2025.05.06-20.48.24:822][116]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.48.24:825][116]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d043c03d-b327-4075-8f74-7aa6205abd20}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=240.78
+[2025.05.06-20.48.24:834][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-20.48.24:905][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-20.48.25:180][117]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 842...4a2 Access[Expires: 2025.05.06-22.48.22 Remaining: 7200.95] Refresh[Expires: 2025-11-02T04:49:51.265Z Remaining: 15494489.26] State: Valid
+[2025.05.06-20.49.08:780][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36269.828125
+[2025.05.06-20.49.09:782][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-20.49.09:782][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36270.496094, Update Interval: 343.591431
+[2025.05.06-20.52.30:272][853]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.05.06-20.52.30:476][853]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.52.30:476][853]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-20.52.31:140][855]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.52.31:155][855]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edacd806-f264-404f-b421-d2103433fcc8}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=559.02
+[2025.05.06-20.52.31:156][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-20.52.31:161][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-20.53.23:993][ 14]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2025.05.06-20.53.24:154][ 14]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.53.24:154][ 14]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-20.53.24:487][ 15]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.53.24:488][ 15]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d043c03d-b327-4075-8f74-7aa6205abd20}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=52.28
+[2025.05.06-20.53.24:489][ 15]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-20.53.24:496][ 15]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-20.55.43:181][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36663.171875
+[2025.05.06-20.55.44:180][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-20.55.44:180][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36663.835938, Update Interval: 337.127594
+[2025.05.06-20.56.30:178][572]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.05.06-20.56.30:186][572]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.56.30:187][572]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-20.56.30:853][574]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-20.56.30:856][574]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edacd806-f264-404f-b421-d2103433fcc8}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=546.59
+[2025.05.06-20.56.30:856][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-20.56.30:859][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-21.02.13:902][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37052.617188
+[2025.05.06-21.02.14:902][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.02.14:902][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37053.281250, Update Interval: 339.650879
+[2025.05.06-21.08.51:959][797]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37449.316406
+[2025.05.06-21.08.52:960][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.08.52:960][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37449.980469, Update Interval: 342.692352
+[2025.05.06-21.12.35:325][467]LogDerivedDataCache: C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.06-21.15.34:026][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37850.199219
+[2025.05.06-21.15.35:028][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.15.35:028][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37850.863281, Update Interval: 318.946503
+[2025.05.06-21.15.46:263][ 40]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2025.05.06-21.15.46:376][ 40]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-21.15.46:377][ 40]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-21.15.46:709][ 41]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-21.15.46:711][ 41]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d043c03d-b327-4075-8f74-7aa6205abd20}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.77
+[2025.05.06-21.15.46:711][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-21.15.46:715][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-21.16.12:479][119]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.05.06-21.16.12:710][119]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-21.16.12:710][119]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-21.16.13:376][121]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-21.16.13:380][121]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edacd806-f264-404f-b421-d2103433fcc8}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=533.14
+[2025.05.06-21.16.13:380][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-21.16.13:383][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-21.21.36:090][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38211.058594
+[2025.05.06-21.21.37:089][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.21.37:089][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38211.722656, Update Interval: 357.773376
+[2025.05.06-21.28.16:481][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38610.062500
+[2025.05.06-21.28.17:481][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.28.17:481][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38610.730469, Update Interval: 334.604340
+[2025.05.06-21.34.44:863][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38997.167969
+[2025.05.06-21.34.45:864][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.34.45:864][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38997.832031, Update Interval: 324.243896
+[2025.05.06-21.40.53:901][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39364.875000
+[2025.05.06-21.40.54:903][565]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.40.54:903][565]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39365.542969, Update Interval: 317.814880
+[2025.05.06-21.46.59:622][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39729.625000
+[2025.05.06-21.47.00:622][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.47.00:622][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39730.289062, Update Interval: 351.379120
+[2025.05.06-21.53.37:678][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40126.320312
+[2025.05.06-21.53.38:677][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.53.38:677][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40126.984375, Update Interval: 308.457886
+[2025.05.06-21.59.28:407][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40475.859375
+[2025.05.06-21.59.29:403][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-21.59.29:404][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40476.523438, Update Interval: 346.255676
+[2025.05.06-22.06.13:123][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40879.191406
+[2025.05.06-22.06.14:123][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.06.14:123][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40879.855469, Update Interval: 323.939941
+[2025.05.06-22.12.34:504][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41259.269531
+[2025.05.06-22.12.35:323][266]LogDerivedDataCache: C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.06-22.12.35:506][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.12.35:506][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41259.933594, Update Interval: 348.385254
+[2025.05.06-22.18.58:882][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41642.671875
+[2025.05.06-22.18.59:882][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.18.59:882][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41643.335938, Update Interval: 325.648376
+[2025.05.06-22.25.19:278][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42021.750000
+[2025.05.06-22.25.20:278][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.25.20:278][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42022.414062, Update Interval: 302.852875
+[2025.05.06-22.31.02:664][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42363.957031
+[2025.05.06-22.31.03:664][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.31.03:667][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42364.621094, Update Interval: 352.424683
+[2025.05.06-22.37.49:718][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42769.625000
+[2025.05.06-22.37.50:717][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.37.50:717][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42770.289062, Update Interval: 316.426880
+[2025.05.06-22.44.02:780][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43141.585938
+[2025.05.06-22.44.03:779][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.44.03:779][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43142.250000, Update Interval: 320.363770
+[2025.05.06-22.46.43:804][410]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: Yes UserId: 842...4a2
+[2025.05.06-22.46.43:804][410]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.94 RefreshExpires: 1.549e+07
+[2025.05.06-22.46.44:805][413]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 842...4a2 Access[Expires: 2025.05.07-00.46.44 Remaining: 7200.10] Refresh[Expires: 2025-11-02T04:49:51.265Z Remaining: 15487387.26] State: Valid
+[2025.05.06-22.50.04:497][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43502.062500
+[2025.05.06-22.50.05:497][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.50.05:497][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43502.726562, Update Interval: 343.056732
+[2025.05.06-22.56.23:891][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43880.183594
+[2025.05.06-22.56.25:224][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-22.56.25:224][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43881.179688, Update Interval: 314.489563
+[2025.05.06-23.02.28:945][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44243.972656
+[2025.05.06-23.02.29:946][248]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-23.02.29:946][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44244.636719, Update Interval: 344.607697
+[2025.05.06-23.09.13:677][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44647.527344
+[2025.05.06-23.09.14:677][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-23.09.14:677][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44648.191406, Update Interval: 306.623138
+[2025.05.06-23.12.35:323][ 64]LogDerivedDataCache: C:/Users/Will/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.06-23.15.00:724][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44993.398438
+[2025.05.06-23.15.01:725][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.06-23.15.01:725][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44994.062500, Update Interval: 359.084442
+[2025.05.06-23.31.08:115][704]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [902 Seconds] waiting for h/w. InstanceID=1
+[2025.05.06-23.31.08:138][705]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.06-23.31.08:138][705]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.06-23.31.08:471][706]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.06-23.31.08:474][706]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edacd806-f264-404f-b421-d2103433fcc8}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=291.20
+[2025.05.06-23.31.08:474][706]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.06-23.31.08:477][706]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.06-23.31.13:808][722]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.07-00.54.44:204][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50981.316406
+[2025.05.07-00.54.44:204][723]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: 842...4a2
+[2025.05.07-00.54.44:204][723]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -484.3 RefreshExpires: 1.548e+07
+[2025.05.07-00.54.44:477][724]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64211'.
+[2025.05.07-00.54.44:501][724]LogUdpMessaging: Display: Added local interface '192.168.0.10' to multicast group '230.0.0.1:6666'
+[2025.05.07-00.54.45:431][725]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2025.05.07-00.54.45:594][725]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.07-00.54.45:623][725]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.07-00.54.45:649][727]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 842...4a2 Access[Expires: 2025.05.07-02.54.44 Remaining: 7200.74] Refresh[Expires: 2025-11-02T04:49:51.265Z Remaining: 15479707.26] State: Valid
+[2025.05.07-00.54.45:971][727]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.07-00.54.45:975][727]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d043c03d-b327-4075-8f74-7aa6205abd20}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=138.86
+[2025.05.07-00.54.45:975][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.07-00.54.45:978][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.07-00.54.47:317][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.07-00.54.47:318][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50984.093750, Update Interval: 317.917419
+[2025.05.07-01.00.51:697][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51347.769531
+[2025.05.07-01.00.52:699][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.07-01.00.52:699][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51348.433594, Update Interval: 309.908142
+[2025.05.07-01.06.54:750][913]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51709.730469
+[2025.05.07-01.06.55:750][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.07-01.06.55:750][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51710.394531, Update Interval: 341.410553
+[2025.05.07-01.08.38:262][224]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.05.07-01.08.38:433][224]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.07-01.08.38:433][224]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.07-01.08.39:099][226]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.07-01.08.39:101][226]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{edacd806-f264-404f-b421-d2103433fcc8}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=562.19
+[2025.05.07-01.08.39:102][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.07-01.08.39:105][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.07-01.11.49:632][798]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2025.05.07-01.11.49:791][798]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.07-01.11.49:791][798]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13232
+[2025.05.07-01.11.50:122][799]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.07-01.11.50:125][799]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d043c03d-b327-4075-8f74-7aa6205abd20}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=34.96
+[2025.05.07-01.11.50:125][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.07-01.11.50:129][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.07-01.13.33:147][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52107.042969
+[2025.05.07-01.13.34:147][111]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.07-01.13.34:147][111]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52107.707031, Update Interval: 347.987915
+[2025.05.07-01.18.47:823][154]LogUObjectHash: Compacting FUObjectHashTables data took  19.63ms
+[2025.05.07-01.18.47:915][154]LogStall: Shutdown...
+[2025.05.07-01.18.47:915][154]LogStall: Shutdown complete.
+[2025.05.07-01.18.48:030][154]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.48:031][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.48:244][154]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.07-01.18.48:244][154]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.48:244][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.48:451][154]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.07-01.18.48:451][154]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.48:451][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.48:603][154]LogSlate: Window 'ATB_System - Unreal Editor' being destroyed
+[2025.05.07-01.18.48:614][154]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.07-01.18.49:283][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.05.07-01.18.49:304][154]Cmd: QUIT_EDITOR
+[2025.05.07-01.18.49:304][155]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.07-01.18.49:320][155]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.07-01.18.49:321][155]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.07-01.18.49:321][155]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.07-01.18.49:328][155]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.49:329][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.49:354][155]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.07-01.18.49:366][155]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.07-01.18.49:377][155]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.49:379][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.49:382][155]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.49:382][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.49:385][155]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.49:385][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.49:388][155]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.05.07-01.18.49:388][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.07-01.18.49:400][155]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.07-01.18.49:408][155]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.07-01.18.49:408][155]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.07-01.18.49:408][155]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.07-01.18.50:259][155]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.07-01.18.50:259][155]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.07-01.18.50:259][155]LogAudio: Display: Audio Device unregistered from world 'Level_1'.
+[2025.05.07-01.18.50:259][155]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.07-01.18.50:261][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.07-01.18.50:263][155]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.07-01.18.50:283][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.07-01.18.50:285][155]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.07-01.18.50:297][155]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.07-01.18.50:297][155]LogExit: Preparing to exit.
+[2025.05.07-01.18.50:375][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.05.07-01.18.50:378][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:380][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:398][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:399][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:400][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:401][155]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.50:401][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.07-01.18.51:452][155]LogEditorDataStorage: Deinitializing
+[2025.05.07-01.18.51:885][155]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.07-01.18.52:016][155]LogExit: Editor shut down
+[2025.05.07-01.18.52:039][155]LogExit: Transaction tracking system shut down
+[2025.05.07-01.18.53:059][155]LogExit: Object subsystem successfully closed.
+[2025.05.07-01.18.53:132][155]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.07-01.18.53:948][155]LogMemoryProfiler: Shutdown
+[2025.05.07-01.18.53:948][155]LogNetworkingProfiler: Shutdown
+[2025.05.07-01.18.53:948][155]LoadingProfiler: Shutdown
+[2025.05.07-01.18.53:950][155]LogTimingProfiler: Shutdown
+[2025.05.07-01.18.55:131][155]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.07-01.18.55:163][155]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.07-01.18.55:163][155]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B27A563F6-4771-FB53-DE35-D28B547E5698%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.2-39378466%2B%2B%2BUE5%2BRelease-5.5&UserID=eacf11474037e7edd607e4b22ebbecac%7C842b777ab74c4cb4957a4dc1b1d984a2%7Cf60e8baa-c00e-4671-8145-55060502a10b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.07-01.18.55:725][155]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.07-01.18.55:733][155]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.07-01.18.55:733][155]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.07-01.18.55:736][155]RenderDocPlugin: plugin has been unloaded.
+[2025.05.07-01.18.55:762][155]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.07-01.18.55:762][155]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.07-01.18.55:762][155]LogPakFile: Destroying PakPlatformFile
+[2025.05.07-01.18.56:575][155]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.07-01.18.56:634][155]LogExit: Exiting.
+[2025.05.07-01.18.56:692][155]Log file closed, 05/06/25 17:18:56
