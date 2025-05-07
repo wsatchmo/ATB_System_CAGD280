@@ -10,7 +10,7 @@
  Use WASD to approach the lone enemy on the field -- the orange 'Bandit' in front of you.
  When in range, the ATB battle system will begin.
 
- Using the mouse, select 'Attack' when prompted, then select an enemy to attack.
+ Using your mouse cursor, select 'Attack' when prompted, then select an enemy to attack.
 
  ## Key features
     - UI that dynamically loads players and enemies into various submenus 
@@ -28,6 +28,7 @@
 	[ ] HP & MP Bars
 	[ ] Magic, Skills, Items
 	[ ] Equipment, Elements, Class Skills
+	[ ] Navigate UI with WASD
 	[ ] Victory menu; adding items and money
 	[ ] Saving health between levels (use GameInstance)
 	[ ] Status ailments - in and out of battle
