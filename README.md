@@ -23,6 +23,7 @@
 	- Cameras that switch based on who is currently attacking
 
  ## To do
+	[ ] Fix spawning into Battle_Plane: works in Dev, breaks Build
 	[ ] Feedback on attacks
 	[ ] HP & MP Bars
 	[ ] Magic, Skills, Items
